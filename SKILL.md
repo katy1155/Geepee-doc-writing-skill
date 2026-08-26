@@ -19,13 +19,8 @@ Flagged as filler, already cut once, must not resurface in any form:
 - "Stated formally at this point,"
 - "Underneath that goal sat a hypothesis worth stating plainly,"
 - "The research surfaced/showed/made clear one [thing]:" (e.g. "The research made one thing clear:" / "The research surfaced one clear conclusion.")
-- "[X] worked for what it was built for" / "[X] did what it was designed to do" — a tautological opener that restates the mechanism's existence before saying anything about what it actually did. When describing what worked and what didn't, start directly with the concrete case (the actual event, the actual limitation), not a meta-statement that the thing succeeded at its own purpose.
 
-The pattern underneath all of these: a sentence that announces its own function ("here's the question," "to put it plainly," "worth stating," "it worked for what it was built for") before delivering the actual content. Any opener that names what it's about to do, instead of just doing it, is this same tell in a new sentence. Cut the announcement, keep the sentence that follows it.
-
-## Never close on a symmetric "what X was for, what Y was for" line
-
-Closing a paragraph by restating two things in parallel purpose-clauses ("that was the bar X set, and Y was the test of it" / "for this reason, and for that reason") reads as a tidy résumé line rather than a real ending. Close on the concrete last fact instead, a name, an action, a plain outcome, not a symmetrical summary of purposes.
+The pattern underneath all three: a sentence that announces its own function ("here's the question," "to put it plainly," "worth stating") before delivering the actual content. Any opener that names what it's about to do, instead of just doing it, is this same tell in a new sentence. Cut the announcement, keep the sentence that follows it.
 
 When a new instance of this pattern gets called out in conversation, add it to this list so it doesn't return later in the document.
 
@@ -42,7 +37,7 @@ Check for this at the structural level, negate-then-affirm across two clauses or
 
 Flagged as tics, not just openers, so check the whole sentence, not just the first few words:
 
-- "earns its place"
+- "earns its place" / "earned its place" / "earning its place" — any tense, this one keeps slipping through as a different verb form
 - "before [X] touches it" (e.g. "before any theme touches it")
 - "nobody asked [it/them] to [verb]" (e.g. "attention nobody asked it to draw")
 - "just stating it"
